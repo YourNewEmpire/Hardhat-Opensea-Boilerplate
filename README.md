@@ -1,4 +1,4 @@
-# Hardhat ERC-721 Repo
+# Hardhat ERC-721/ERC-1155 Repo
 
 * Clone this and run `npm i` in terminal.
 * Add .env file with:
